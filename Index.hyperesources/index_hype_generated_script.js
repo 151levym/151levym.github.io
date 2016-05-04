@@ -70,7 +70,7 @@
                     i: "kTimelineDefaultIdentifier", n: "Main Timeline", z: 0, b: [], a: [], f: 30
                 }
             }
-            , bZ:180, O:["19", "18", "17", "20", "16", "15", "14", "21"], v: {
+            , bZ:180, O:["22", "19", "18", "17", "20", "16", "15", "14", "21"], v: {
                 "21": {
                     k: "div", x: "visible", c: 529, d: 384, z: 1, a: 18, j: "absolute", bS: 374, b: 0
                 }
@@ -105,6 +105,15 @@
                     G: "#000000", aU: 8, c: 404, aV: 8, d: 43, r: "inline", s: "Helvetica,Arial,Sans-Serif", t: 48, Z: "break-word", w: "DECODED", bF: "21", j: "absolute", x: "visible", k: "div", y: "preserve", z: 2, aS: 8, aT: 8, a: 72, F: "center", b: 0
                 }
                 , "18": {
+                    b:49, z:2, K:"Solid", c:130, L:"Solid", d:35, aS:6, M:1, bD:"none", N:1, aT:6, O:1, g:"#F0F0F0", aU:6, P:1, bF:"20", aV:6, j:"absolute", aI:4, k:"div", aJ:4, aK:4, aL:4, A:"#A0A0A0", B:"#A0A0A0", Z:"break-word", r:"inline", C:"#A0A0A0", D:"#A0A0A0", t:13, aA: {
+                        a:[ {
+                            p: 5, j: "/qcgraphs.html", k: false
+                        }
+                        ]
+                    }
+                    , F:"center", G:"#000000", aP:"pointer", w:"Quality Control Results<br>", x:"visible", I:"Solid", a:0, y:"preserve", J:"Solid"
+                }
+                , "22": {
                     b:49, z:2, K:"Solid", c:130, L:"Solid", d:35, aS:6, M:1, bD:"none", N:1, aT:6, O:1, g:"#F0F0F0", aU:6, P:1, bF:"20", aV:6, j:"absolute", aI:4, k:"div", aJ:4, aK:4, aL:4, A:"#A0A0A0", B:"#A0A0A0", Z:"break-word", r:"inline", C:"#A0A0A0", D:"#A0A0A0", t:13, aA: {
                         a:[ {
                             p: 5, j: "/qcgraphs.html", k: false
