@@ -116,11 +116,11 @@
                 , "22": {
                     b:-49, z:2, K:"Solid", c:130, L:"Solid", d:35, aS:6, M:1, bD:"none", N:1, aT:6, O:1, g:"#F0F0F0", aU:6, P:1, bF:"20", aV:6, j:"absolute", aI:4, k:"div", aJ:4, aK:4, aL:4, A:"#A0A0A0", B:"#A0A0A0", Z:"break-word", r:"inline", C:"#A0A0A0", D:"#A0A0A0", t:13, aA: {
                         a:[ {
-                            p: 5, j: "/qcgraphs.html", k: false
+                            p: 5, j: "/finalscores.html", k: false
                         }
                         ]
                     }
-                    , F:"center", G:"#000000", aP:"pointer", w:"Quality Control Results<br>", x:"visible", I:"Solid", a:0, y:"preserve", J:"Solid"
+                    , F:"center", G:"#000000", aP:"pointer", w:"Final Company Scores<br>", x:"visible", I:"Solid", a:0, y:"preserve", J:"Solid"
                 }
             }
         }
